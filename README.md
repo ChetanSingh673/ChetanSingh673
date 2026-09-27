@@ -1,6 +1,6 @@
 # Hi there, I'm Chetan Singh 👋
 
-I'm a DevOps Engineer passionate about cloud computing, containerization, CI/CD automation, and monitoring. Here's a quick overview of what I do:
+System and Infrastructure Engineer with 8+ years of hands-on experience in Linux server administration, network troubleshooting, and production environment support. Transitioning into DevOps and Cloud Engineering with practical experience building GitOps CI/CD pipelines, containerizing applications, and managing AWS EKS clusters. Here's a quick overview of what I do:
 
 * Cloud Infrastructure with AWS ☁️
 * Containerization & Orchestration with Docker & Kubernetes 🐳 ☸️
